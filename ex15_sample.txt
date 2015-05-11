@@ -1,0 +1,3 @@
+This is stuff inside the file I typed.
+This is what is in it.
+I am printing it out.
